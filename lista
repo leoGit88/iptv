@@ -1,0 +1,695 @@
+#EXTM3U
+
+
+#----------------------------------  NOTICIAS  ---------------------------------#
+
+
+
+#	Cronica		#
+
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-logo="https://yt3.ggpht.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Cronica
+https://www.youtube.com/watch?v=avly0uwZzOE
+
+
+#	C5N	#
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://yt3.ggpht.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",C5N
+https://www.youtube.com/watch?v=jTDk5CswBVk
+
+
+#	TN	#
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://yt3.ggpht.com/OL0n5KS1Yw3200B8OhLyq6Qa_g-aNGhJcuhNQJ2Ym3Ykan1Bptx1_yJrClMlMedhLR_W4cvoOw=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",TN
+https://www.youtube.com/watch?v=cb12KmMMDJA
+
+
+#	LN+	#
+
+#EXTINF:-1 tvg-id="LN.ar" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",LN+
+https://www.youtube.com/watch?v=OR9MH16MKrg
+
+
+#	A24	#
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS" user-agent="iPhone",A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://www.youtube.com/watch?v=QGpHLgRnrx4
+
+
+#	Canal 26	#
+
+#EXTINF:-1 tvg-id="C26.ar" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Canal 26
+https://www.youtube.com/watch?v=35LSnUPu5RY
+
+
+#	IP Noticias	#
+
+#EXTINF:-1 tvg-id="IP.ar" tvg-logo="https://yt3.googleusercontent.com/6774bIA50pdvi6fWFYPKEjl2DqPzTx2tWpYrTSgfiudSSr8ew1_7jm__guaR8CLvpx-4tGtz7A=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",IP Noticias
+https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNGIyYTJmM2MtYmQzZi00N2VlLThjODktODQwNjI0NzgxYjdhIn0%3D&allow_source=true&browser_family=chrome&browser_version=133.0&cdm=wv&enable_score=true&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4181989&parent_domains=twitchplayer&platform=web&play_session_id=7b2a73157bcd4354aff321ddb291655e&player_backend=mediaplayer&player_version=1.38.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=f5c3f14ba902c1f4bda186afd831558eced5f93c&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ip_noticias%22%2C%22channel_id%22%3A625134483%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22FQ3BRlwbMsr3Iu5uQJxir9mN7JsVFK6D%22%2C%22expires%22%3A1740791977%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A1052643435%2C%22user_ip%22%3A%22181.225.29.14%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
+
+#	Canal 24 Horas		#
+
+#EXTINF:-1 tvg-id="C24H.cl" tvg-logo="https://yt3.ggpht.com/Os-cwD4A7NxPOdDREiPuf-abwz5kBZbAktE7NHlKUD6upbF0Qo7wphO7uCPs1uEDGcQw-dUGBfY=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Canal 24 Horas
+https://www.youtube.com/watch?v=bad5HyO2SGo
+
+
+#	TVE Internacional America	#
+
+#EXTINF:-1 tvg-id="TVE Internacional America" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="NOTICIAS",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+
+#	RTVE Noticias	  #
+
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kbUogYAMt4zNR7yq8JAh5DfwnDLaFhXqPOVzjXwWjJBm4=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",RTVE Noticias
+https://www.youtube.com/watch?v=7_srED6k0bE
+
+
+#	RT en Español	#
+
+#EXTINF:-1 tvg-id="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="NOTICIAS",RT en Español
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+
+#	DW Español	#
+
+#EXTINF:-1 tvg-id="DW.es" tvg-logo="https://yt3.ggpht.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",DW Español
+https://www.youtube.com/watch?v=Io5mt83nCcU
+
+
+#	El Pais TV	#
+
+#EXTINF:-1 tvg-id="El Pais TV" tvg-logo="https://imagenes.elpais.com/resizer/flGlXIrtcpZZGVgM_EKEQbYbudk=/arc-anglerfish-eu-central-1-prod-prisa/public/S4TMC4AJFBCHHGF2PUQ3Z3IW54.jpg" group-title="NOTICIAS",El Pais TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+
+#	CGTN Español	#
+
+#EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
+#	DNews		#
+
+#EXTINF:-1 tvg-id="DNews.es" tvg-logo="https://yt3.ggpht.com/dmZegR2APj8uvMf8WHaff69SwEv0Rh-cCpxV_WNVsbZOKyAeum8wceq37v8-8yP0Ywo3m3e5DA=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",DNews
+https://www.youtube.com/watch?v=j8rExAJa1e8
+
+
+#	Fox News	#
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="NOTICIAS",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+
+#	CNN International	#
+
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CNN-International-Logo.svg/revision/latest/scale-to-width-down/250?cb=20210624193135&path-prefix=es" group-title="NOTICIAS",CNN International
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
+
+#	BBC News UK	#
+
+#EXTINF:-1 tvg-id="BBC News UK" tvg-logo="https://pbs.twimg.com/profile_images/1529107486271225859/03qcVNIk_400x400.jpg" group-title="NOTICIAS",BBC News UK
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+
+#	CBS News	#
+
+#EXTINF:-1 tvg-id="CBS News" tvg-logo="https://m.media-amazon.com/images/I/41WdJb50GNL._h1_.png" group-title="NOTICIAS",CBS News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+
+
+#	Sky News	#
+
+#EXTINF:-1 tvg-id="Sky News" tvg-logo="https://play-lh.googleusercontent.com/pHkMbBQj7MnKj7SYhVMan82alGvqDODnzO_sEeDiM91UfH4_mc05KtcXA4_ujSe-ag" group-title="NOTICIAS",Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+
+
+#	Caracol Noticias	#
+
+#EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://yt3.googleusercontent.com/dHWWoN9qQQz6IXAAU7VdROXXhql4QA_1Nc1W4pYzHcbnrSy4YOtrXwyrqbIEdyWv_gnddgWY=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Caracol Noticias
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+
+#	Italia 2 TV	#
+
+#EXTINF:-1 tvg-id="Italia 2 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8XvwYMN9abZuuDmdZDJBaT5kR6gDBKsdmSpeGGQ6OLUf2BTn8crMkgeS2tRs3XYRF7k&usqp=CAU" group-title="NOTICIAS",Italia 2 TV
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+
+
+#	Italia 7	#
+
+#EXTINF:-1 tvg-id="Italia 7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nbHE0AmZ0feBJCm92d_-EByBGe-p6y55_qQzydjfpRGuw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+
+
+#	TeleSUR		#
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NOTICIAS",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+
+#	Canal 12 Puerto Madryn		#
+
+#EXTINF:-1 tvg-id="Canal 12 Puerto Madryn" tvg-logo="https://yt3.googleusercontent.com/Rij9g5lpOCWgsEVmy4Oq2Xun6ahd_9cr2HjhSEpC_YrPFpgDko5lz8NvudLaCQB1Bd-KAQ1Xng=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",Canal 12 Puerto Madryn
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+
+
+
+
+#----------------------------------  NACIONALES  ---------------------------------#
+
+
+
+
+#	America 	#
+
+#EXTINF:-1 tvg-id="America.ar" tvg-logo="https://yt3.googleusercontent.com/vIYh4fJ4FiOeD0U8sGUEUZQf3DaK-PME00Ckh7cFf4CRmC3EHopvUsjbgYKhNVkFXURSzltWYQ=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",America
+https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
+
+#	El Trece	#
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+#	TV Publica	#
+
+#EXTINF:-1 tvg-id="TVP.ar" tvg-logo="https://yt3.ggpht.com/VRFIZ1TwHCK_2-f26AREvAfDV0vT0cqi4Ls3NZrdbCGmNlBBa6Voppsmd1DIByyRTab3MhRILy0=s88-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",TV Publica
+https://www.youtube.com/watch?v=8fB0UQEzzpU
+
+
+#	Canal 9		#
+
+#EXTINF:-1 tvg-id="C9.ar" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",Canal 9
+https://sae12.playlist.ttvnw.net/v1/playlist/CqoG3eMGTRnQuQ07USGOSob1_JK-rsL6Kkb7_WO1lP9xtmcPtYvmNM5a8AuO1m4A2vkhDCrhC6VzTypZJVulWgwT4xmOfxddBvBfI9bOY37TrCEvsoRu4_9PIrdxti7ys1fs7hjCTOMsBDNTZi8bGHH05Q7lU-RVd8BICOcaK0f0WBClE_NQHILpQHABKUq6s1qKbBu7PLFe5i9dN_O-hE9QLk2MYEZhqDdoH4OhTB1-FwQFNxK9ehgSVEMyOo0FRPTNIAVuZWuFTPxBF8yjITKGTocJsU1syp7OsDndazXrmkQL2NwJVzojiwFMv1h2FzyUMr_QGGqk_BUcKXWzXgQEgpAr3upqO7F98w5IZBrNEhgWq6Qt8lWzqfblejqBRlOQ-ny9FIwdVKbME0x6j2Ti-rc1UHUwW49Xhq3qsqyUMIC5ywE0BmFFZHc11asVzudOHzGPTk8YYJer-w7nsPi25eL6bShN-1Gbnii9xWIDcjBkeBYFw_ap2h7FV8NrfDCH8-nIzY2znLpoaMcuYi2XGUbWSwxH9HE4_qGrBfl0IV13bxkcQaTp7Z_fLcXCpQiQ9TgdDYhvG415MfDaceTRuqjb095ZsfE-1lmkFhK0yYVmpesAnCYXD9CDoUBPtwwCdi7bK9VUKbK6At6Baolx4V3xkbtjizWQa9VtE81vn5EpDOv4aKBg2KDcHFM4rmehf2Dy7Nw25jTdyOs7F--y1esPkO0FW1nKSbaZWIVfRyzdTe9t7_JLXE0qDnYDZV4QRkH9N5GQmuUefD5Ed24ovzXD9rwsEahTe2tRUdoRYzxJ-V9s82SQ3Sqwv7K6XbXBWsQ1U-rILnTTZk0UbFf-orwY1Gag4si1KNTeHSyieigXZDeIJGF80kqqg4cN9Tu-dCyxxsNOULETtIE7B4WR5ieBYur3rOBXtxguCjkD56cL8tsfq0WeF2XnWkDQ2pya0lARu9XXWuoJscMQ-hiQ9fe43KMi7XMC-cAbvgOO6TwM0C3iBkwOYcrEY3O-w8rtwaYqLPfKca6RQFPoPS89G9g7nbfqFS8U0TVTM5xEQXdhU_gLc3ReT8HSGgyYpYRbmyHzTM9j6wUgASoJdXMtZWFzdC0yMPcL.m3u8
+
+
+#	Telefe		#
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="NACIONALES",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+
+
+#	NET TV		#
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="NACIONALES",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#	Ciudad Magazine		#
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="NACIONALES",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+
+#	Metro TV		#
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/07/canal-12-metro-tv-800x450.jpg" group-title="NACIONALES",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
+
+
+
+
+
+
+
+#----------------------------------  PELICULAS  ---------------------------------#
+
+
+
+
+#	AMC	#
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="" group-title="PELICULAS",AMC
+
+
+
+#	AXN		#
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Jvm30j1BlYJct61dZlvRyLmLN8vdsjzM1f2axyEVEQ2RBAJ5401yX_sdEpb6KazCnRM&usqp=CAU" group-title="PELICULAS",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+
+#	Magazine		# 
+
+#EXTINF:-1 tvg-id="Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="PELICULAS",Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
+
+
+#	Claro Visión TV		# 
+
+#EXTINF:-1 tvg-id="ClaroVisiónTV" tvg-logo="" group-title="PELICULAS",Claro Visión TV
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
+
+#	Codigo TV		#
+
+#EXTINF:-1 tvg-id="CodigoTV" tvg-logo="https://codigotv.net/wp-content/uploads/2024/12/Sin-titulo-4.png" group-title="PELICULAS",Codigo TV
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+
+
+#	Cosmos TV 		#
+
+#EXTINF:-1 tvg-id="Cosmos TV " tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg" group-title="PELICULAS",Cosmos TV 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#	Distrito TV		#
+
+#EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://play-lh.googleusercontent.com/wKpqGu_JE-InMAiPTwjWYS56vHCJwyMV4kVBZm7Ec010d5NjzH9s3T6oUuZCH-spe14" group-title="PELICULAS",Distrito TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+
+#	Imagen Universal TV		#
+
+#EXTINF:-1 tvg-id="ImagenUniversalTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kLTdO4vCvvChEBLSY1xgxzlX5UqBsXwocV_Es5ifn3Y4s=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+
+#	Infinita TV		#
+
+#EXTINF:-1 tvg-id="Infinita TV" tvg-logo="https://serenotv.com/cargas/2023/04/d458cc7759ad6b308e952947f0d48108_INFINITA-tv-premium-2022.jpg-scaled.jpeg" group-title="PELICULAS",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+
+#	Latino Classic TV 		#
+
+#EXTINF:-1 tvg-id="Latino Classic TV" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_151f8e8d0c9e2a144f59f11ec492c3e91710874647.png" group-title="PELICULAS",Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+
+
+#	Planeta HD		#
+
+#EXTINF:-1 tvg-id="Planeta HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzs9wJIMMx81Si3RMeLFcrr20tKcHGhVu9gC0i7GpvhWtB-gSjaee62yDhCQIK3w6d2Q&usqp=CAU" group-title="PELICULAS",Planeta HD
+https://live.obslivestream.com/planetatv/index.m3u8
+
+
+#	Sony Cine		#
+
+#EXTINF:-1 tvg-id="Sony Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitvlQobcQ30PgGBybyvs4ELVZ5gwhfpA-9irRqwhZjXdFL7pEG1gb1xlkqZmngAnOtCg&usqp=CAU" group-title="PELICULAS",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
+#	Mega TV		#
+
+#EXTINF:-1 tvg-id="Mega TV" tvg-logo="" group-title="PELICULAS",Mega TV
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+
+
+#	Xtrema Accion		#
+
+#EXTINF:-1 tvg-id="Xtrema Accion" tvg-logo="" group-title="PELICULAS",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+
+
+
+
+
+
+
+#----------------------------------  RADIOS  ---------------------------------#
+
+
+
+
+#	Radio Mitre	#
+
+#EXTINF:-1 tvg-id="Mitre.ar" tvg-logo="https://i.ytimg.com/vi/E5pifPoiG4M/default.jpg?v=67be90ac" group-title="RADIOS",Radio Mitre
+https://www.youtube.com/watch?v=Di47zOyje6Y
+
+
+#	LA NACION 104.9 +Música		#
+
+#EXTINF:-1 tvg-id="LaNacion1049.ar" tvg-logo="https://i.ytimg.com/vi/e7H4RnWsp1g/default.jpg?v=67af1c43" group-title="RADIOS",LA NACION 104.9 +Música
+https://www.youtube.com/watch?v=-4uLfkprgno
+
+
+#	El Observador 107.9		#
+
+#EXTINF:-1 tvg-id="ElObservador1079.ar" tvg-logo="https://yt3.googleusercontent.com/MmlOtGwNdzp-2FlnS4Zk8aCd1JCVlzPo-57bkvRkoywzGmxXaLWSazItM8dkVa7TEAAGkgOQug=s160-c-k-c0x00ffffff-no-rj" group-title="RADIOS",El Observador 107.9
+https://www.youtube.com/watch?v=y8O52cdp83w
+
+
+#	Radio 10		#
+
+#EXTINF:-1 tvg-id="Radio10.ar" tvg-logo="https://yt3.ggpht.com/oksN402135L1H8-iX1xbjVIuAk-ejMDPwSonVY0gSrLtxYuZwbGbJurculXj6J0LhwRf7JPBslk=s176-c-k-c0x00ffffff-no-rj-mo" group-title="RADIOS",Radio 10
+https://www.youtube.com/watch?v=igRfp3c2j70
+
+
+#	Rivadavia		#
+
+#EXTINF:-1 tvg-id="Rivadavia.ar" tvg-logo="https://yt3.googleusercontent.com/A93k1EQUVUyBchrQwbvkZLV8y8shKpO-v8Vc2wHosuNmRVy9XM-wOQN8v7ZP_kz3KRh6FsalsA=s160-c-k-c0x00ffffff-no-rj" group-title="RADIOS",Rivadavia
+https://www.youtube.com/watch?v=v6iULSw8j3o
+
+
+#	Bondi		#
+
+#EXTINF:-1 tvg-id="Bondi.ar" tvg-logo="https://yt3.googleusercontent.com/JI-npkDEh3CKwV-0GYjMGGzNTE4rXjl7Qn1828Q7T0dXAoRB-M132_qiWREcdeVZs_oLTVbUs3k=s160-c-k-c0x00ffffff-no-rj" group-title="RADIOS",Bondi
+https://www.youtube.com/watch?v=upwZuxVC90A
+
+
+#	Vorterix		#
+
+#EXTINF:-1 tvg-id="Vorterix" tvg-logo="https://yt3.googleusercontent.com/MLwjpG_fQdT6e-8_CNsqcOSKghc58Q_xGoZMn5lp37fGCUUqh3PoW5L3-XUB093Iv9Ozt4C9NgU=s900-c-k-c0x00ffffff-no-rj" group-title="RADIOS",Vorterix
+https://www.youtube.com/watch?v=KabU7O0jjDw
+
+
+
+
+
+
+
+
+
+
+#----------------------------------  MUSICA  ---------------------------------#
+
+
+
+
+#	Latin Pop	#
+
+#EXTINF:-1 tvg-id="Latin Pop" tvg-logo="https://www.sasktel.com/wps/wcm/connect/2416b696-4b9e-4abf-81a0-b07ac3a24c27/logo-290x290-stingray-music.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2416b696-4b9e-4abf-81a0-b07ac3a24c27-nauKE5O" group-title="MUSICA",Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+
+#	Season		#
+
+#EXTINF:-1 tvg-id="Season" tvg-logo="https://www.sasktel.com/wps/wcm/connect/2416b696-4b9e-4abf-81a0-b07ac3a24c27/logo-290x290-stingray-music.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2416b696-4b9e-4abf-81a0-b07ac3a24c27-nauKE5O" group-title="MUSICA",Season
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+
+#	Romance Latino		#
+
+#EXTINF:-1 tvg-id="Romance Latino" tvg-logo="https://www.sasktel.com/wps/wcm/connect/2416b696-4b9e-4abf-81a0-b07ac3a24c27/logo-290x290-stingray-music.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2416b696-4b9e-4abf-81a0-b07ac3a24c27-nauKE5O" group-title="MUSICA",Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+
+#	Remeber The 80's		#
+
+#EXTINF:-1 tvg-id="Remeber The 80's" tvg-logo="https://c-1y15z120-t12c.ayozat.com/tvchannels/CI7Aaumwy12cc89dth1W5QsMy033ipkEHiHGJOCg.webp" group-title="MUSICA",Remeber The 80's
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
+
+
+#	Greatest Hits		#
+
+#EXTINF:-1 tvg-id="Greatest Hits" tvg-logo="https://www.sasktel.com/wps/wcm/connect/2416b696-4b9e-4abf-81a0-b07ac3a24c27/logo-290x290-stingray-music.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2416b696-4b9e-4abf-81a0-b07ac3a24c27-nauKE5O" group-title="MUSICA",Greatest Hits
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
+
+
+#	Country		#
+
+#EXTINF:-1 tvg-id="Country" tvg-logo="https://www.saskmusic.org/uploads/opportunity/opportunity_image_7105.png?t=1585950367" group-title="MUSICA",Country
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
+
+
+#	iHeart 80s		#
+
+#EXTINF:-1 tvg-id="iHeart 80s" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065" group-title="MUSICA",iHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#	iHeartRadio 90s		#
+
+#EXTINF:-1 tvg-id="iHeartRadio 90s" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982?ops=fit(480%2C480)" group-title="MUSICA",iHeartRadio 90s
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#	iHeartRadio Alternative		#
+
+#EXTINF:-1 tvg-id="iHeartRadio Alternative" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxDBaf87bAyS9JD4ymljrSY_4yfoq11FS73nmnQ1Vk3CGtfP0VhAT723LdbiW6iKnNA0&usqp=CAU" group-title="MUSICA",iHeartRadio Alternative
+https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#	iHeartRadio Beso		#
+
+#EXTINF:-1 tvg-id="iHeartRadio Beso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxDBaf87bAyS9JD4ymljrSY_4yfoq11FS73nmnQ1Vk3CGtfP0VhAT723LdbiW6iKnNA0&usqp=CAU" group-title="MUSICA",iHeartRadio Beso
+https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#	iHeartRadio Country		#
+
+#EXTINF:-1 tvg-id="iHeartRadio Country" tvg-logo="https://i.iheart.com/v3/re/assets.brands/62758d1b3ebaa7423f9928b9?ops=gravity(%22center%22),contain(1200,675),quality(65)" group-title="MUSICA",iHeartRadio Country
+https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#	iHeartRadio Hip-Hop		#
+
+#EXTINF:-1 tvg-id="iHeartRadio Hip-Hop" tvg-logo="https://i.iheart.com/v3/re/assets.brands/63dd0f003a275587f4138096?ops=gravity(%22north%22),fit(1200,675),quality(65)" group-title="MUSICA",iHeartRadio Hip-Hop
+https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
+
+
+#	Impact TV Dance		#
+
+#EXTINF:-1 tvg-id="Impact TV Dance" tvg-logo="https://www.tvonline123.com/img/canale_webp/impactdance.webp" group-title="MUSICA",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+
+#	Magic TV		#
+
+#EXTINF:-1 tvg-id="Magic TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fVgrj6TPAsv8XVqxeKrg06s8nKDIvEU3MmlTqFXCXTmfDDJ4mXa9LhZRbpDKrT4G5zI&usqp=CAU" group-title="MUSICA",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+
+#	MTV Classic		#
+
+#EXTINF:-1 tvg-id="MTV Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcBm_W6b1C8YcEvXBYuUxatl3UET1EWKui1kxg_tn_yw2D5eyNqwRjBXpASbvZKkzQ4w&usqp=CAU" group-title="MUSICA",MTV Classic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+
+
+#	MTV Live		#
+
+#EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzTbB1olImCzFz5F8Y5fYc_dqIK8-XwjJyML-Xpd6uzQvDQo04iH342wPEq9ozpOeEKY&usqp=CAU" group-title="MUSICA",MTV Live
+http://190.102.246.93:9005/play/a01p
+
+
+#	MTV Music		#
+
+#EXTINF:-1 tvg-id="MTV Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAfhvqH5-4vtLQ0eS1uA0FYKLICR9nXWVk6vuI6wchs18ZonojHZ9oMfpC4zam8BEKOeE&usqp=CAU" group-title="MUSICA",MTV Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
+
+
+#	Now 70's		#
+
+#EXTINF:-1 tvg-id="Now 70's" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/474w/ev-sofast-ireland-avod/AVODNOW70SY2023M/AVODNOW70SY2023M-474x677-PST.jpg" group-title="MUSICA",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+
+#	Now 80's		#
+
+#EXTINF:-1 tvg-id="Now 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="MUSICA",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+
+#	NOW Rock		#
+
+#EXTINF:-1 tvg-id="NOW Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-L84sPsm1lb613N4WLKkPDvZ3laaDfN1xer8C3z8icoVhYXQCCXzlJQ4l4TXRYl8hvY&usqp=CAU" group-title="MUSICA",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+#	Pluto TV Classic Rock		#
+
+#EXTINF:-1 tvg-id="Pluto TV Classic Rock" tvg-logo="https://store-images.s-microsoft.com/image/apps.7419.14136317613015826.4b50370e-a400-4445-a5cb-31901f926a13.2d3221a0-e4c7-4c5b-97bc-d3e041b7096c" group-title="MUSICA",Pluto TV Classic Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff26-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=713ee127-0f8a-4167-a669-0f01b34cc722
+
+
+#	Vevo '70s		#
+
+#EXTINF:-1 tvg-id="Vevo '70s" tvg-logo="https://i.ibb.co/ymM8KNk5/Vevo-70s-1839.png" group-title="MUSICA",Vevo '70s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+
+
+#	Vevo '80s		#
+
+#EXTINF:-1 tvg-id="Vevo '80s" tvg-logo="https://i.ibb.co/qYnDHyyZ/Vevo-80s-1839.png" group-title="MUSICA",Vevo '80s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+
+
+#	Vevo '90s		#
+
+#EXTINF:-1 tvg-id="Vevo '90s" tvg-logo="https://i.ibb.co/1JfGDsq9/Vevo-90s-1839.png" group-title="MUSICA",Vevo '90s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+
+
+#	Vevo Country		#
+
+#EXTINF:-1 tvg-id="Vevo Country" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjanobspeb8QDzeCJYMJOQkEX7gAZ-C9Sjv_FTUoPP9fsGC8CzHA253Jw-AyovOPxA9A&usqp=CAU" group-title="MUSICA",Vevo Country
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+
+
+#	Vevo R&B		#
+
+#EXTINF:-1 tvg-id="Vevo R&B" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/04/Vevo-2.jpg" group-title="MUSICA",Vevo R&B
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+
+
+#	VH1+ Rock Italy		#
+
+#EXTINF:-1 tvg-id="VH1+ Rock Italy" tvg-logo="https://garajedelrock.com/wp-content/uploads/2020/04/VH1-1024x683.jpeg" group-title="MUSICA",VH1+ Rock Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+
+
+
+
+
+
+
+#----------------------------------  DEPORTES  ---------------------------------#
+
+
+
+
+
+#	Red Bull TV	#
+
+#EXTINF:-1 tvg-id="RedBull.en" tvg-logo="https://play-lh.googleusercontent.com/W7wJ9CcfTsIlMC9GWk7qgom0JO6R4DoFnHN1DGKuI2OtLQ_3w5zYuscMngY0OZfXtfxn" group-title="DEPORTES",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#	Red Bull TV 2	#
+
+#EXTINF:-1 tvg-id="RedBull2.en" tvg-logo="https://play-lh.googleusercontent.com/W7wJ9CcfTsIlMC9GWk7qgom0JO6R4DoFnHN1DGKuI2OtLQ_3w5zYuscMngY0OZfXtfxn" group-title="DEPORTES",Red Bull TV 2
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+
+#	Xtrem Sports	#
+
+#EXTINF:-1 tvg-id="Xtrem Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXvQvx5F3naOA_saml9uPozvjNLPaqCWiHszLmZo7zz-shw4kCTEixOiN6tC4eUJH1_4&usqp=CAU" group-title="DEPORTES",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+
+#	DAZN (usa)	#
+
+#EXTINF:-1 tvg-id="DAZN.en" tvg-logo="https://yt3.googleusercontent.com/rhy7PZnlFsTcNJZoKhxSIyUWeqQnt9B92RDelt9N4b8icz3BOdIJDlrCIeeQ5aYtlxOfJpJz=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",DAZN
+https://fl4.moveonjoy.com/DAZN_1/index.m3u8
+
+
+#	DAZN 2 (usa)	#
+
+#EXTINF:-1 tvg-id="DAZN2.en" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6c6MSPO7BA93oVE1XPGrtD0FpgfMiU6VscYXY6hplasUPbekcHm3IJHrZThvdq_Q4ZjA&usqp=CAU" group-title="DEPORTES",DAZN 2
+https://fl4.moveonjoy.com/DAZN_2/index.m3u8
+
+
+#	NFL Network	#
+
+#EXTINF:-1 tvg-id="NFL.en" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="DEPORTES",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+
+#	NHL Network	#
+
+#EXTINF:-1 tvg-id="NHL.en" tvg-logo="https://w7.pngwing.com/pngs/255/286/png-transparent-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhl-network-radio-network-information-television-emblem-sport.png" group-title="DEPORTES",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+
+#	FOX Sports UFC (usa)		#
+
+#EXTINF:-1 tvg-id="FOXSportsUFC.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyQ_NmGNqBTyCJ5vautAuNARCXIQ4OYsWHA1TMqAMMfg=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",FOX Sports UFC (usa)	
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
+
+#	FOX Sports  (usa)		#
+
+#EXTINF:-1 tvg-id="FOXSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX Sports (usa)	
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+
+#	FOX Sports (mex)		#
+
+#EXTINF:-1 tvg-id="FOXSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX Sports (mx)	
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+
+#	FOX Sports TUBI (mex)		#
+
+#EXTINF:-1 tvg-id="FOX Sports TUBI (mex)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX Sports TUBI (mex)	
+https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
+
+
+#	CBS Sports Network USA		#
+
+#EXTINF:-1 tvg-id="CBS Sports Network USA" tvg-logo="https://sportshub.cbsistatic.com/i/r/2018/01/20/7a5e8c01-1689-4311-b483-23b65c09516b/thumbnail/1200x675/b8f8323949e6124628656a7db88e439c/firetv-1280x720.png" group-title="DEPORTES",CBS Sports Network USA	
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
+#	ESPN (usa)		#
+
+#EXTINF:-1 tvg-id="ESPN (usa)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",ESPN (usa)	
+http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+
+
+#	ESPN News (usa)		#
+
+#EXTINF:-1 tvg-id="ESPN News (usa)" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="DEPORTES",ESPN News (usa)	
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+
+
+#----------------------------------  DOCUMENTALES ---------------------------------#
+
+
+
+
+
+#	History		#
+
+#EXTINF:-1 tvg-id="History.es" tvg-logo="https://yt3.ggpht.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="DOCUMENTALES",History Channel
+http://179.1.87.75:8098/play/a0dm/index.m3u8
+
+
+#	NatGeo Wild (usa)		#
+
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnHcrMAiT7l-bNbAgOluNWgk-_c_Wt-d9oElwpJM8fLQCrcGu5JRzDwnxyiR5VFMi1HI&usqp=CAU" group-title="DOCUMENTALES",NatGeo Wild (usa)
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+
+#	Discovery Channel (usa)		#
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES",Discovery Channel (usa)
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+
+#	Wild Channel		#
+
+#EXTINF:-1 tvg-id="Wild Channel.us" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2024/11/CTV_Wild_White_500x500.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="DOCUMENTALES", CTV Wild Channel
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
+
+#	BBC America		#
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://i.scdn.co/image/ab6775700000ee854c4e5488a85e405c5130c80f" group-title="DOCUMENTALES",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+
+#	Motor Trend		#
+
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnkRo6uRpnn8UtjWBeDiyTJZ0hOv5nTzZwu0DxIdzD6tK-UD2LfWSq_nozK0Yc2sgtUDI&usqp=CAU" group-title="DOCUMENTALES",Motor Trend
+
+
+
+#	HGTV		#
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://www.padilladesigns.com/wp-content/uploads/2017/03/hgtv-logo.jpg" group-title="DOCUMENTALES",HGTV
+http://fl5.moveonjoy.com/HGTV/index.m3u8
+
+
+#	NASA ISS		#
+
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://yt3.googleusercontent.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s160-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES",NASA ISS
+https://www.youtube.com/watch?v=jKHvbJe9c_Y
+
+
+#	NASA ISS 2		#
+
+#EXTINF:-1 tvg-id="NASA2.us" tvg-logo="https://yt3.googleusercontent.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s160-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES",NASA ISS 2
+https://www.youtube.com/watch?v=H999s0P1Er0
+
+
+
